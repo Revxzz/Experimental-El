@@ -1,18 +1,18 @@
 {
   "owner": [
-    "xxxxxxx@s.whatsapp.net"
+    "6282138079249@s.whatsapp.net"
   ],
-  "botname": "(Experimental) -▪︎ Bella-AI",
-  "botfullname": "Experimental-Bell",
-  "botnickname": "bella",
-  "ownername": "rifza",
+  "botname": "(Experimental) -▪︎ ella-AI",
+  "botfullname": "Experimental-ell",
+  "botnickname": "ella",
+  "ownername": "revxz",
   "locale": "id",
   "cfg": {
     "public": true,
     "ai_interactive": {
-      "group": false,
+      "group": true,
       "private": true,
-      "energy": false
+      "energy": true
     },
     "autotyping": false,
     "autoreadpc": false,
